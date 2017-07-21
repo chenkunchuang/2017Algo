@@ -10,10 +10,12 @@
   ［2号员工的分数 ]［y］
 输出：   公司总分数。
  */
+
+import java.util.*;
 public class Rate {
 	
 	private List<Integer> rate;
-	private List<Integer> 
+	private List<Integer> test;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
